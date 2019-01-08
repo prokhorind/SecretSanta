@@ -1,7 +1,7 @@
 package com.telegram.bot;
 
 /**
- * Created by kleba on 06.11.2017.
+ * Created by IA-82mp on 06.11.2018.
  */
 import org.telegram.telegrambots.ApiContextInitializer;
 import org.telegram.telegrambots.TelegramBotsApi;
